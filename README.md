@@ -1,7 +1,7 @@
 # Projeto Python CRUD Filamentos 3D
 
 <p align="justify">
- Projeto acadêmico de um CRUD simples para cadastro de filamentos 3D.
+ Projeto acadêmico de um CRUD simples para cadastro de filamentos 3D utilizando Python, Tkinter para a interface gráfica e SQLite para o armazenamento de dados.
 </p>
 <div>
  <br><p><b>Login</b></p>
